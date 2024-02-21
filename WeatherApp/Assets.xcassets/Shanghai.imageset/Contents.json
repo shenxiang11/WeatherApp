@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "sx931210_shanghai_6b7e494c-2448-48bc-b397-ac11ab677c1b.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
